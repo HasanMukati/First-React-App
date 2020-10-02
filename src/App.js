@@ -6,7 +6,7 @@ import Stylesheet from './components/sylesheet';
 class App extends Component {
   constructor(props){
     super(props)
-
+    
     this.state={
       newItem:"",
       list:[]
